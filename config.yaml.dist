@@ -1,0 +1,5 @@
+default_language: en
+api_endpoint: "https://%(lang)s.wikipedia.org/w/api.php"
+article_url: "https://%(lang)s.wikipedia.org/w/index.php?title=%(title)s&oldid=%(oldid)s"
+date_buffer_pre: 0.2
+date_buffer_post: 0.3
